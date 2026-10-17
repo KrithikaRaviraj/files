@@ -1,0 +1,9 @@
+# Compiled object files
+*.o
+
+# Generated executables
+slr_q7
+slr_q7.exe
+
+# Debug symbols and common build output
+*.out
